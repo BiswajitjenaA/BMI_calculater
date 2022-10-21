@@ -1,8 +1,7 @@
 # BMI_calculater
 Free Body Mass Index calculator gives out the BMI value and categorizes BMI based on provided information from WHO and CDC for both adults and children.
-# html-css-js-project-boilerplate
+# html-css-js- react-project-boilerplate
 # BMI-Calculater-Project
-A simple tip calculator is made which takes billing amount, type of service, and a number of persons as input. 
 <h1 align="center">Hi 👋, I'm BISWAJIT JENA</h1>
 <h3 align="center">[I'm actually "becoming" a Full Stack Web Developer]</h3>
 
